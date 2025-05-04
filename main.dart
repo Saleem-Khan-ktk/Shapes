@@ -10,16 +10,16 @@ print('''
  *           *   
 ''');
 
-// RightTraingle
+// RightTriangle
 print('''
-*
-* *
-* * *
-* * * *
+        *
+      * *
+    * * *
+  * * * *
 * * * * *
 ''');
 
-// SquilateralTraingle
+// SquilateralTriangle
 print('''
       *
     * * *
@@ -28,16 +28,17 @@ print('''
 ''');
   // Rectangle
   print('''
-* * * * * * *
-* * * * * * *
-* * * * * * *
-* * * * * * *''');
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *''');
   // Square
   print('''
-* * * * *
-* * * * *
-* * * * *
-* * * * *''');
+* * * *
+* * * *
+* * * *
+* * * *
+''');
 
 // Parallelogram
 print('''
